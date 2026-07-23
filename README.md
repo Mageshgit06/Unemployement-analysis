@@ -7,8 +7,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 Techniques Used:
 Data Cleaning, Data Preprocessing, Exploratory Data Analysis (EDA), Data Visualization
 
-Key Features:
-
+Core Features:
 Analysis of unemployment rates over time
 Region-wise comparison
 Trend and pattern identification
