@@ -14,4 +14,4 @@ Trend and pattern identification
 Visual representation using graphs and charts
 
 Outcome:
-Gained insights into unemployment patterns and improved skills in data analysis, visualization, and handling real-world datasets
+Gained insights into unemployment patterns and improved skills in data analysis, visualization, and handling real-world datasets.
